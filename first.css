@@ -1,0 +1,13 @@
+.c1{
+    background-color: rgb(184, 238, 194);
+}
+button{
+    margin-right: 25px;
+    width: 12%;
+    height: 12%;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.btn1{
+    margin-left: -38px;
+}
